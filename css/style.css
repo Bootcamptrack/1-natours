@@ -248,7 +248,8 @@ body {
       .card__details ul li {
         text-align: center;
         font-size: 1.5rem;
-        padding: rem; }
+        padding: rem;
+        margin-top: 1.2rem; }
         .card__details ul li:not(:last-child) {
           border-bottom: 1px solid #eee; }
 
